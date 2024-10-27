@@ -24,4 +24,7 @@ paginate = 5
   [Params.Tree]
     use = true
     folderName = "apps"
-    files = [["DailyVerse", "https://dailyverse.uk/"]]
+    files = [
+	["BibleTrainer", "https://bibletrainer.co.uk"],
+    	["DailyVerse", "https://dailyverse.uk/"]
+    ]
